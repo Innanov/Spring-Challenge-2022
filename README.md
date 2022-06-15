@@ -12,3 +12,5 @@
 - Exercice 4: 
 
 ## My score:
+
+![Capture](https://user-images.githubusercontent.com/64653897/173786877-48e96231-3156-4ee7-ac99-c94d0098d45d.PNG)
