@@ -4,10 +4,10 @@
 [https://challenges.quantum-computing.ibm.com/fall-2021](https://challenges.quantum-computing.ibm.com/spring-2022)
 
 - [ ] Completed IBM Quantum Challenge Spring 2022  #challenge-fall-2021 , solving all 4 Exercices: 
-- Exercice 1: 
-- Exercice 2: 
-- Exercice 3: 
-- Exercice 4: 
+- Exercice 1: Tight-binding Model
+- Exercice 2: Quantum Random Walks and Localization
+- Exercice 3: Many-body Quantum Dynamics
+- Exercice 4: Using VQE On a Water Molecule
 
 ## My score:
 
