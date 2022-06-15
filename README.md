@@ -1,7 +1,5 @@
 ## IBM Quantum Challenge Spring 2022 ⚛️
-<p align="center">
-  <img src="![FTDDHUHXwAApi6x](https://user-images.githubusercontent.com/64653897/173322830-2cdbc5cf-dbf2-4989-83b1-791b64ae828c.jpg)">
-</p>
+![image](https://user-images.githubusercontent.com/64653897/173787226-25fcbd5b-b2d9-4aaf-90a1-9e94dace0cbb.png)
 
 [https://challenges.quantum-computing.ibm.com/fall-2021](https://challenges.quantum-computing.ibm.com/spring-2022)
 
